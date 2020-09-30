@@ -1,3 +1,3 @@
 # hello-world
-Este es mi primer repositorio de github
+Este es mi primer repositorio de github\n
 This a file to learn about github, for now all its allright, way for more news ...
